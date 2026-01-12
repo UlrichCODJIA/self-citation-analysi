@@ -1,0 +1,15 @@
+[
+  {
+    "method":"stratified_random_sampling",
+    "criteria":[
+      "era",
+      "discipline"
+    ],
+    "allocation":"proportional",
+    "sample_fraction":0.1,
+    "total_size":32475349,
+    "unique_authors":11654385,
+    "strata_count":50,
+    "random_state":42
+  }
+]

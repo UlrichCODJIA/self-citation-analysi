@@ -1,0 +1,34 @@
+# Comprehensive Self-Citation Analysis Requirements
+# A 55-Year Perspective on Scholarly Communication Evolution
+
+# Core Data Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Database Connectivity
+psycopg2-binary>=2.9.5
+sqlalchemy>=2.0.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+
+# Network Analysis
+networkx>=3.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Statistical Analysis
+statsmodels>=0.14.0
+
+# Progress and Utilities
+tqdm>=4.65.0
+jupyter>=1.0.0  # Optional: for interactive analysis
+
+# Optional: Enhanced Analysis Capabilities
+# umap-learn>=0.5.3  # For advanced dimensionality reduction
+# hdbscan>=0.8.33    # For advanced clustering
+# wordcloud>=1.9.2   # For field keyword analysis
