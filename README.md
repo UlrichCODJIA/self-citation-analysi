@@ -1,5 +1,7 @@
 # Self-Citation Analysis Project
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18220363.svg)](https://doi.org/10.5281/zenodo.18220363)
+
 Analyzes 55 years (1970-2025) of self-citation patterns in academic research using the OpenAlex database.
 
 ## Overview
@@ -215,6 +217,6 @@ MIT License
 
 If you use this code in your research, please cite:
 
-```bash
-[Citation information to be added]
+```
+Self-Citation Analysis Project (2026). https://doi.org/10.5281/zenodo.18220363
 ```
